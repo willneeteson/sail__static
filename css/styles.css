@@ -1,6 +1,13 @@
 h1 {
   color: black;
   font-family: sans-serif;
-  background: grey;
+  background: yellow;
   margin: 2em;
+}
+
+.container {
+  background-color: aquamarine;
+  padding: 1em;
+  margin: 4em;
+  border-radius: 3em;
 }
