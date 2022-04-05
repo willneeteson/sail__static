@@ -1,14 +1,14 @@
 h1 {
-  color: green;
+  color: blue;
   font-size: 10rem;
   font-family: sans-serif;
-  background: yellow;
+  background: red;
   line-height: 1.2em;
   margin: 2em;
 }
 
 .container {
-  background-color: aquamarine;
+  background-color: orange;
   padding: 1em;
   margin: 4em;
   border-radius: 3em;
